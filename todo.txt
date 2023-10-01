@@ -1,0 +1,3 @@
+test all html tags
+
+test all xhtml tags
